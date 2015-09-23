@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#Hive DB names
+
+HIVE_STG_DB=store_stg
+HIVE_TRG_DB=store_trg
